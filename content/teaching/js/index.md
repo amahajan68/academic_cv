@@ -1,8 +1,8 @@
 ---
 title: Teaching Assistant for Design & Analysis of Algorithms
-summary: Easily learn JavaScript in 10 minutes!
+summary: ''
 date:   Fall 2023, Spring - Fall 2024
-type: docs
+type: ''
 math: false
 #tags:
 #  - JavaScript
