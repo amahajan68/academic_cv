@@ -180,6 +180,46 @@ awards:
     icon: ''
     summary: |
       Awarded $1,500 to conduct faculty-mentored research in Spring 2025.
+  - title: Honors Program Student Challenge Fund
+    url: ''
+    certificate_url: ''
+    date: '2024-05-05'
+    awarder: Georgia Tech
+    icon: ''
+    summary: |
+      Awarded $500 to support innovative, student-led projects.
+  - title: NSA Steganography Challenge
+    url: ''
+    certificate_url: ''
+    date: '2022-10-05'
+    awarder: HackGT 9, Georgia Tech
+    icon: ''
+    summary: |
+      Won 2nd place among 1,300+ teams and \$400 for the NSA-sponsored challenge "A Picture is Worth One Thousand Words".
+  - title: Pre-Graduate & Pre-Professional (PGPP) Entrance Exam Scholarship
+    url: ''
+    certificate_url: ''
+    date: '2024-05-05'
+    awarder: Georgia Tech
+    icon: ''
+    summary: |
+      Covered the cost of the GRE in 2024.
+  - title: PURA Travel Award
+    url: ''
+    certificate_url: ''
+    date: '2024-11-12'
+    awarder: Georgia Tech
+    icon: ''
+    summary: |
+      Awarded to fund travel for presenting at a professional conference in November 2024.
+  - title: NSF Travel Award
+    url: ''
+    certificate_url: ''
+    date: '2024-10-21'
+    awarder: National Science Foundation
+    icon: ''
+    summary: |
+      Received full funding to present undergraduate research at a professional conference  in October 2024.
 ---
 
 ## About Me
