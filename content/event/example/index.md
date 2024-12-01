@@ -12,7 +12,7 @@ address:
   postcode: '30054'
   country: United States
 
-#summary: An example talk using Hugo Blox Builder's Markdown slides feature.
+summary: An example talk using Hugo Blox Builder's Markdown slides feature.
 abstract: 'The unprecedented urban expansion projected by the UN - equivalent to adding 250 New York Cities globally by 2050 - will strain infrastructure and resources, posing a critical challenge to creating sustainable cities. Traditional urban planning methods struggle to address this rapidly evolving crisis, requiring a shift toward systems-oriented approaches that use predictive modeling for fast, informed decision-making. To address this need, we developed an educational exercise aimed at teaching architectural students how to optimize building energy consumption using surrogate modeling. This interactive game allows participants to adjust key design parameters with the goal of minimizing heating and cooling load. The exercise provides real-time feedback on energy performance, enabling participants to refine strategies within the game’s constraints. The game improves participants' understanding of energy optimization in early design stages, enabling quick, cost-effective decisions by reducing simulation times from hours to seconds. It fosters an energy modeling culture in architectural education, preparing future architects to make informed, sustainable design choices.'
 
 # Talk start and end times.
