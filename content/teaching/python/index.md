@@ -1,12 +1,12 @@
 ---
-title: Learn Python
-summary: Easily learn Python in 10 minutes!
-date: 2023-10-24
-type: docs
+title: CS1331 - Intro to Object-Oriented Programming (OOP)
+summary: ''
+date_start: 2023-01-05
+date_end: 2023-05-05
+type: ''
 math: false
 tags:
-  - Python
-image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  - Teaching Assistant
+#image:
+#  caption: 'Embed rich media such as videos and LaTeX math'
 ---
-
