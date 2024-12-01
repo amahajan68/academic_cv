@@ -50,21 +50,13 @@ education:
       GPA: 3.94/4.0
       
       Courses included:
-      - Machine Learning, Second Course Linear Algebra, Automata & Complexity, Graph Theory, Robotics & Perception, Systems & Networks
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Machine Learning
+      - Second Course Linear Algebra
+      - Automata & Complexity
+      - Graph Theory
+      - Robotics & Perception
+      - Systems & Networks
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
@@ -76,6 +68,17 @@ work:
       - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Data Science Intern
+    company_name: Fractal Analytics
+    company_url: 'https://fractal.ai/'
+    company_logo: ''
+    date_start: 2023-05-25
+    date_end: 2023-08-15
+    summary: |2-
+      Responsibilities include:
+      - Collaborated with Merck’s R&D department to fine-tune a LLM for automating marketing content audits, ensuring the model accurately flagged content violating nuanced regulatory guidelines
+      - Employed prompt engineering and developed a curated dataset of industry-specific compliance use cases, resulting in a 20% improvement in model accuracy.
+      - Built an AI chatbot using Langchain, ChatGPT API, and Hugging Face, streamlining compliance workflows and enabling peer collaboration on prompt engineering and use-case curation.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
