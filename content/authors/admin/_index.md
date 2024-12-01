@@ -159,25 +159,25 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Faculty Honors
-    url: ''
-    date: ''
+    #url: ''
+    #date: ''
     awarder: Georgia Tech
-    icon: ''
+    #icon: ''
     summary: |
       Maintained a perfect 4.0 GPA across Fall 2021, Spring - Fall 2022, Fall 2023, Spring 2024.
   - title: DAAD RISE Germany
-    url: ''
+    #url: ''
     date: '2024-04-15'
     awarder: Deutscher Akademischer Austauschdienst (DAAD) German Academic Exchange Service
-    icon: ''
+    #icon: ''
     summary: |
       Awarded a competitive research internship for Summer 2024; declined due to prior commitments.
   - title: 'President's Undergraduate Research Award (PURA)'
-    url: ''
+    #url: ''
     #certificate_url: ''
     date: '2024-11-21'
     awarder: Georgia Tech
-    icon: ''
+    #icon: ''
     summary: |
       Awarded $1,500 to conduct faculty-mentored research in Spring 2025.
 ---
