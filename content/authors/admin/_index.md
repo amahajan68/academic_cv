@@ -172,7 +172,7 @@ awards:
     #icon: ''
     summary: |
       Awarded a competitive research internship for Summer 2024; declined due to prior commitments.
-  - title: 'President's Undergraduate Research Award (PURA)'
+  - title: President's Undergraduate Research Award (PURA)
     #url: ''
     #certificate_url: ''
     date: '2024-11-21'
