@@ -1,7 +1,7 @@
 ---
 title: Teaching Assistant for Design & Analysis of Algorithms
 summary: ''
-date:   Fall 2023, Spring - Fall 2024
+date: 2023-08-15
 type: ''
 math: false
 #tags:
