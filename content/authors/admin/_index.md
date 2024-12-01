@@ -57,24 +57,57 @@ education:
       - Robotics & Perception
       - Systems & Networks
 work:
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+  - position: Undergraduate Research Assistant
+    company_name: Pathology Dynamics, Georgia Tech
+    company_url: 'https://sites.gatech.edu/cassie-mitchell-lab/'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2024-08-15
+    date_end: ''
+    summary: |2-
+      Responsibilities include:
+      - Developed a CNN-based segmentation model to measure vertebral motion for assessing fusion status in ACDF surgery using labeled cervical radiographs.
+      - Achieved 99.2\% accuracy in spinous process detection by utilizing data augmentation techniques including noise stimulation, blurring, cropping, and rotating.
+      - Calculated ISPM by converting segmented radiographs into BLOB images, extracting rightmost spinous process coordinates, and measuring pixel distance between them.
+  - position: NSF Fellow
+    company_name: Research Experience for Undergraduates (REU) CAAR, UMD
+    company_url: 'https://www.cs.umd.edu/projects/reucaar/'
+    company_logo: ''
+    date_start: 2024-06-02
+    date_end: 2024-08-12
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Collaborated with Kheyti, a nonprofit in India, to develop a crop planning decision support tool for small farmers using Multi-Agent Reinforcement Learning.
+      - Implemented the Multi-Agent Rollout policy that simplifies the global optimization problem into sequential local decisions, leading to increased fairness and overall outcomes for farmers.
+      - Designed a MySQL database schema to manage simulation data and used Matplotlib and Seaborn to visualize the effectiveness of policies in real-world agricultural settings.
+  - position: Undergraduate Research Assistant
+    company_name: Sustainable Urban Systems Lab, Georgia Tech
+    company_url: 'https://sustainableurbansystems.com/'
+    company_logo: ''
+    date_start: 2024-01-05
+    date_end: ''
+    summary: |
+      Responsibilities include:
+      - Developed surrogate models for energy-efficient building design, providing urban planners with real-time decision-making tools to support sustainable city planning in Atlanta.
+      - Led an interdisciplinary subteam to design a multivariate regression model that reduced simulation times from hours to seconds, utilizing Gradient Boost and Bayesian Optimization.
+      - Created a game-based tool designed to teach surrogate modeling, allowing architects to optimize building design parameters through interactive challenges aimed at minimizing energy consumption.
+  - position: Undergraduate Research Assistant
+    company_name: Pathology Dynamics, Georgia Tech
+    company_url: 'https://sites.gatech.edu/cassie-mitchell-lab/'
+    company_logo: ''
+    date_start: 2023-08-15
+    date_end: 2024-05-05
+    summary: |
+      Responsibilities include:
+      - Collaborated with Emory’s Morningside Center to develop an intuitive clinician interface that accelerates quantitative meta-analyses for clinical trial literature review, focused on drug repurposing.
+      - Proposed and implemented a full-stack web application with Next.js, incorporating interactive Plotly visualizations and user-access management through AWS sign-in authentication.
+      - Utilized Lambda Functions and OpenAI Gateway to develop advanced filtering capabilities, including a PubMed Query Generator and customizable results table, processing over 1,000 studies in under a minute.
   - position: Data Science Intern
     company_name: Fractal Analytics
     company_url: 'https://fractal.ai/'
     company_logo: ''
     date_start: 2023-05-25
     date_end: 2023-08-15
-    summary: |2-
+    summary: |
       Responsibilities include:
       - Collaborated with Merck’s R&D department to fine-tune a LLM for automating marketing content audits, ensuring the model accurately flagged content violating nuanced regulatory guidelines
       - Employed prompt engineering and developed a curated dataset of industry-specific compliance use cases, resulting in a 20% improvement in model accuracy.
