@@ -224,4 +224,4 @@ awards:
 
 ## About Me
 
-Anubha Mahajan is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Anubha Mahajan is a senior undergraduate student in Computer Science at Georgia Tech, specializing in Artificial Intelligence and Theoretical Computer Science. Her research interests include clinical applications of AI, urban sustainability, and multi-agent systems. She works as a research assistant at the Pathology Dynamics Lab advised by Dr. Cassie Mitchell and at the Sustainable Urban Systems Lab advised by Dr. Patrick Kastner.
