@@ -1,11 +1,9 @@
 ---
-title: Pandas
+title: Energy Load Predictor
 date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+external_link: https://surrogate-model-game.vercel.app/
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Surrogate Modeling
 ---
 
 Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
