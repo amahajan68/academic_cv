@@ -44,7 +44,7 @@ image:
 #    url: https://twitter.com/georgecushen
 #url_code: 'https://github.com/VIP-SMUR/24Fa-EnergyInBuildings-Com'
 #url_pdf: ''
-url_slides: ''
+url_slides: 'upload/What_Should_We_Grow_Today_to_make_Money_Tomorrow.pptx'
 #url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
