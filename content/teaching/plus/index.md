@@ -2,7 +2,8 @@
 title: Math 1554 - Intro to Linear Algebra
 summary: ''
 date: 2022-08-15
-#date_end: 2022-12-05
+date_start: 2022-08-15
+date_end: 2022-12-05
 type: ''
 math: false
 tags:
