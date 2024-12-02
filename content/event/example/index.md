@@ -41,6 +41,8 @@ publishDate: '2017-01-01T00:00:00Z'
 
 authors:
   - admin
+  - Jessica Hernandez
+  - Jiayi Li
 
 tags: []
 
@@ -48,7 +50,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ''
   focal_point: Right
 
 #links:
@@ -58,7 +60,7 @@ image:
 #    url: https://twitter.com/georgecushen
 url_code: 'https://github.com'
 #url_pdf: ''
-url_slides: 'static/uploads/VIP-SMUR_GURC_Presentation.pptx'
+url_slides: 'uploads/VIP-SMUR_GURC_Presentation.pptx'
 #url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
