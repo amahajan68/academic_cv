@@ -1,5 +1,5 @@
 ---
-title: Optimizing Building Energy Consumption - A Game-Based Approach to Teaching Surrogate Modeling
+title: Optimizing Building Energy Consumption, A Game-Based Approach to Teaching Surrogate Modeling
 
 event: Georgia Undergraduate Research Conference
 event_url: https://oxford.emory.edu/academics/gurc.html
@@ -12,7 +12,7 @@ address:
   postcode: '30054'
   country: United States
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
+#summary: An example talk using Hugo Blox Builder's Markdown slides feature.
 abstract: >
   The unprecedented urban expansion projected by the UN - equivalent to adding
   250 New York Cities globally by 2050 - will strain infrastructure and resources,
