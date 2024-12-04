@@ -42,7 +42,7 @@ interests:
   - Machine Learning
 
 education:
-  - area: BSc Computer Science
+  - area: BS Computer Science
     institution: Georgia Institute of Technology
     date_start: 2021-08-15
     date_end: 2025-05-05
