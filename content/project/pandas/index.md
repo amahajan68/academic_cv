@@ -1,16 +1,15 @@
 ---
-title: Energy Load Predictor
-date: 2024-11-01
-external_link: https://surrogate-model-game.vercel.app/
-tags:
-  - Surrogate Modeling
-
-title: Drug Repurposing for Cancer Treatments
-date: 2023-11-01 
-external_link: https://staging.d1iopk6aom3bhr.amplifyapp.com/
-tags: 
-  - Meta-Analysis
-  - Bioinformatics
+title: Projects
 ---
 
-<!--more-->
+### 🏙️ Energy Load Predictor  
+**Date:** November 2024  
+**Tags:** Surrogate Modeling  
+**Link:** [surrogate-model-game.vercel.app](https://surrogate-model-game.vercel.app/)  
+
+---
+
+### 🧪 Drug Repurposing for Cancer Treatments  
+**Date:** November 2023  
+**Tags:** Meta-Analysis, Bioinformatics  
+**Link:** [staging.d1iopk6aom3bhr.amplifyapp.com](https://staging.d1iopk6aom3bhr.amplifyapp.com/)  
