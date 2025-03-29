@@ -4,13 +4,10 @@ env:
   WC_HUGO_VERSION: '0.136.5'
 
 on:
-  # Trigger the workflow every time you push to the `main` branch
   push:
     branches: ["main"]
-  # Allows you to run this workflow manually from the Actions tab on GitHub.
   workflow_dispatch:
 
-# Provide permission to clone the repo and deploy it to GitHub Pages
 permissions:
   contents: read
   pages: write
@@ -21,7 +18,6 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  # Build website
   build:
     if: github.repository_owner != 'HugoBlox'
     runs-on: ubuntu-latest
@@ -29,10 +25,9 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v4
       with:
-          # Fetch history for Hugo's .GitInfo and .Lastmod
         fetch-depth: 0
     - name: Preload upload-artifact
-      uses: actions/upload-artifact@8f3e38e57a2e76109c1fe81e1d156e8b564e5cfc
+      uses: actions/upload-artifact@v3
       with:
         name: dummy
         path: README.md
@@ -64,7 +59,6 @@ jobs:
       with:
         path: ./public
 
-  # Deploy website to GitHub Pages hosting
   deploy:
     if: github.repository_owner != 'HugoBlox'
     environment:
