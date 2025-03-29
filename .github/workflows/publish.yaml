@@ -29,8 +29,15 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v4
       with:
-          # Fetch history for Hugo's .GitInfo and .Lastmod
         fetch-depth: 0
+
+    - name: Preload upload-artifact
+      uses: actions/upload-artifact@v3@8f3e38e57a2e76109c1fe81e1d156e8b564e5cfc
+      with:
+        name: dummy
+        path: README.md
+      continue-on-error: true
+
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
       with:
